@@ -1,5 +1,4 @@
 # assignment2
-Java code
 class Computer {
     String IPAddress;
     float Value;
